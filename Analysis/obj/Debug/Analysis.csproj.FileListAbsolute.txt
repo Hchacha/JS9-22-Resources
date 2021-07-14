@@ -1,0 +1,9 @@
+E:\学习\vs\新建文件夹\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\学习\vs\新建文件夹\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\学习\vs\新建文件夹\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\Analysis.csprojAssemblyReference.cache
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnalysisForm.resources
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\Analysis.csproj.GenerateResource.cache
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

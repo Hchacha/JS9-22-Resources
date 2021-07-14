@@ -1,0 +1,29 @@
+D:\田祥龙\C# tian\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\田祥龙\C# tian\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\田祥龙\C# tian\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\田祥龙\C# tian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\田祥龙\C# tian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\田祥龙\C# tian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\田祥龙\C# tian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\田祥龙\C# tian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\田祥龙\C# tian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\田祥龙\C# tian\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\bin\Debug\WindowsFormsApp1.exe.config
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\bin\Debug\WindowsFormsApp1.exe
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\bin\Debug\WindowsFormsApp1.pdb
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\obj\Debug\WindowsFormsApp1.exe
+D:\田祥龙\C# tian\WindowsFormsApp1 - 副本\obj\Debug\WindowsFormsApp1.pdb
+E:\学习\vs\新建文件夹\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\学习\vs\新建文件夹\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\学习\vs\新建文件夹\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\学习\vs\新建文件夹\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
